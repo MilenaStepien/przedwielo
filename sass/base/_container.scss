@@ -1,0 +1,22 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  align-items: center;
+  margin: 0 auto;
+  .header & {
+    display: flex;
+    align-items: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  .hero & {
+    text-align: center;
+    width: 1200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  .footer & {
+    display: flex;
+    align-items: baseline;
+  }
+}

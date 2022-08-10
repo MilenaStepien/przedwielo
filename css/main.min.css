@@ -106,7 +106,7 @@ img {
   line-height: 1.875;
   align-items: center;
   color: #fff;
-  background-color: #2196f3;
+  background-color: #f1e20c;
   border-radius: 4px;
   cursor: pointer;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -140,13 +140,13 @@ img {
   text-decoration: none;
   letter-spacing: 0.03em;
   margin-right: 93px;
-  color: #2196f3;
+  color: #f1e20c;
   display: flex;
   justify-content: center;
   margin: 0 auto;
 }
 .logo__accent-text {
-  color: #2196f3;
+  color: #f1e20c;
 }
 .logo--light-theme {
   color: #212121;
@@ -224,12 +224,12 @@ img {
 }
 .form__input:focus + .form__icon {
   outline: none;
-  fill: #2196f3;
-  border-color: #2196f3;
+  fill: #f1e20c;
+  border-color: #f1e20c;
 }
 .form__input:focus {
   outline: none;
-  border-color: #2196f3;
+  border-color: #f1e20c;
 }
 .form__icon {
   width: 12px;
@@ -265,7 +265,7 @@ img {
 }
 .form__textarea:focus {
   outline: none;
-  border-color: #2196f3;
+  border-color: #f1e20c;
 }
 .form__checkbox {
   vertical-align: middle;
@@ -273,7 +273,7 @@ img {
   bottom: 1px;
 }
 .form__checkbox:checked + .form__statement::before {
-  background-color: #2196f3;
+  background-color: #f1e20c;
   border: none;
   background-image: url('../images/checkbox.svg');
   background-repeat: no-repeat;
@@ -283,7 +283,7 @@ img {
   font-size: 12px;
   line-height: 1.714;
   letter-spacing: 0.03em;
-  color: #2196f3;
+  color: #f1e20c;
 }
 .form__statement {
   display: inline-block;
@@ -344,7 +344,7 @@ img {
   line-height: 1.875;
   align-items: center;
   color: #fff;
-  background-color: #2196f3;
+  background-color: #f1e20c;
   border-radius: 4px;
   cursor: pointer;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -392,7 +392,7 @@ img {
 .social__link:hover,
 .social__link:focus {
   fill: #fff;
-  background-color: #2196f3;
+  background-color: #f1e20c;
 }
 .social__icon {
   width: 20px;
@@ -416,13 +416,13 @@ img {
 .social__link--dark-theme:hover,
 .social__link--dark-theme:focus {
   fill: #fff;
-  background-color: #2196f3;
+  background-color: #f1e20c;
 }
 .menu__item {
   margin-right: 46px;
 }
 .menu__item--active .menu__link {
-  color: #2196f3;
+  color: #f1e20c;
 }
 .menu__item--active::after {
   content: '';
@@ -432,7 +432,7 @@ img {
   height: 4px;
   width: 53px;
   border-radius: 2px;
-  background-color: #2196f3;
+  background-color: #f1e20c;
   margin-right: 20px;
 }
 .menu__link {
@@ -449,7 +449,7 @@ img {
 }
 .menu__link:hover,
 .menu__link:focus {
-  color: #2196f3;
+  color: #f1e20c;
 }
 .contact__link {
   font-weight: 500;
@@ -465,8 +465,8 @@ img {
 }
 .contact__link:hover,
 .contact__link:focus {
-  fill: #2196f3;
-  color: #2196f3;
+  fill: #f1e20c;
+  color: #f1e20c;
 }
 .contact__icon {
   margin-right: 10px;
@@ -511,11 +511,11 @@ img {
 }
 .menu-mobile__link:hover,
 .menu-mobile__link:focus {
-  color: #2196f3;
+  color: #f1e20c;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .menu-mobile .menu-mobile__link--active {
-  color: #2196f3;
+  color: #f1e20c;
 }
 .mobile-contacts__item:not(:last-child) {
   margin-bottom: 32px;
@@ -532,7 +532,7 @@ img {
   color: #757575;
 }
 .mobile-contacts_link--current {
-  color: #2196f3;
+  color: #f1e20c;
   font-size: 34px;
   line-height: 1.176x;
 }
@@ -552,7 +552,7 @@ img {
   line-height: 1.222;
   letter-spacing: 0.02em;
   text-decoration: none;
-  color: #2196f3;
+  color: #f1e20c;
 }
 .mobile-btn {
   background-color: transparent;
@@ -562,7 +562,7 @@ img {
   fill: black;
 }
 .mobile-btn:hover {
-  fill: #2196f3;
+  fill: #f1e20c;
   outline: none;
   cursor: pointer;
 }
@@ -948,8 +948,8 @@ img {
 }
 .clients__logo:hover,
 .clients__logo:focus {
-  fill: #2196f3;
-  border-color: #2196f3;
+  fill: #f1e20c;
+  border-color: #f1e20c;
 }
 .clients__item {
   width: 40%;
@@ -1002,7 +1002,7 @@ img {
 }
 .footer-address__link:hover,
 .footer-address__link:focus {
-  color: #2196f3;
+  color: #f1e20c;
 }
 .footer-address__link--theme {
   color: #fff;
@@ -1066,7 +1066,7 @@ img {
   color: rgba(255, 255, 255, 0.6);
 }
 .footer-newsletter__input:focus {
-  border-color: #2196f3;
+  border-color: #f1e20c;
   outline: none;
   cursor: pointer;
 }
@@ -1163,7 +1163,7 @@ img {
 .portfolio-filters__button:hover,
 .portfolio-filters__button:focus {
   color: #fff;
-  background-color: #2196f3;
+  background-color: #f1e20c;
   cursor: pointer;
 }
 .portfolio-filters__item {
